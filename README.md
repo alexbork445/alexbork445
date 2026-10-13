@@ -1,4 +1,7 @@
 ## Hi there 👋
+<a href="https://www.credly.com/earner/earned/badge/c9ea04d8-4676-4409-82b6-df741a144a93" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/af8f6277-2f3a-4467-ae5d-209a3281267d/image.png" width="160" alt="Cisco Introduction to Cybersecurity">
+</a>
 
 <!--
 **alexbork445/alexbork445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
